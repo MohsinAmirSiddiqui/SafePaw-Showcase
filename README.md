@@ -12,8 +12,11 @@ SafePaw is a native iOS application designed to help pet owners handle medical e
 * **🌙 Native Dark Mode Support:** Fully optimized UI that adapts to user system preferences.
 
 ## 📱 Previews
-*(Drag and drop your App Store screenshots and video previews here!)*
 <p align="center">
+<img width="485" height="996" alt="First Aid" src="https://github.com/user-attachments/assets/8b473057-64f8-49cc-93d0-036541a1a25c" />
+<img width="485" height="996" alt="Set Your Vet Number" src="https://github.com/user-attachments/assets/ccd3c91e-dd7b-4a1b-bcd3-4a4227a86fe8" />
+<img width="486" height="994" alt="Find Vet" src="https://github.com/user-attachments/assets/d63acf95-e5af-4662-ae77-d14345e957eb" />
+<img width="485" height="996" alt="Care Guide" src="https://github.com/user-attachments/assets/aa80b6b9-4e46-4818-ab33-5364107ae95b" />
   </p>
 
 ## 🛠 Tech Stack & Architecture
